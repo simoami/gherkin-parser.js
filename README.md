@@ -4,7 +4,7 @@
 
 
 ## Description
-As opposed to other tools that have multiple dependencies, this is standalone tool that has no dependencies and can run directly from the browser or via node.js.
+As opposed to other tools that have multiple dependencies, [gherkin-parser.js](https://github.com/simoami/gherkin-parser.js) has no dependencies and can run directly from the browser or via node.js.
 
 ##Syntax
 tbd.
